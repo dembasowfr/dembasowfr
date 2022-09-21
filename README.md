@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack, tailwind, MongoDB and more**
 
-- 👨‍💻 All of my projects are available at [www.github.com/dembasow98](?tab=repositories)
+- 👨‍💻 All of my projects are available at [?tab=repositories]
 
 - 💬 Ask me about **javascript, python, react, redux, tailwind, bootstrap, nodeJS, nextJS etc**
 
