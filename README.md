@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello <p><i>friends👋,<i><p> I'm Demba Sow</h1>
-<h3 align="center">A passionate full-stack developer from Mauritania/Living in Turkey</h3>
+<h1 align="center">What's poppin' <p><i>beautiful soul👋,<i><p> I'm Demba Sow</h1>
+<h3 align="center">A passionate Mauritanian full-stack developer living in Turkey</h3>
 <img align="right" alt="FullStack Demba Sow Coding" width = "400" src = "https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
