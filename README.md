@@ -1,5 +1,5 @@
 
-<h1 align="center">What's poppin' <p><i>beautiful soul👋,<i><p> I'm Demba Sow</h1>
+<h1 align="center">What's poppin' <p><i>beautiful soul👋,<i><p> Soy Demba Sow</h1>
 <h3 align="center">A passionate Mauritanian full-stack developer living in Turkey</h3>
 <img align="right" alt="FullStack Demba Sow Coding" width = "400" src = "https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
