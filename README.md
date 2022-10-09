@@ -1,10 +1,6 @@
 
 
-https://user-images.githubusercontent.com/62963091/194756130-1882f1ab-0af7-410c-bae9-8ec9fb4e9250.mp4
 
-
-<h1 align="center">What's poppin' <p><i>beautiful soul👋,<i><p> Soy Demba Sow</h1>
-<h3 align="center">A passionate Mauritanian full-stack developer living in Turkey</h3>
 <img align="right" alt="FullStack Demba Sow Coding" width = "400" src = "https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
