@@ -20,6 +20,13 @@
 
 - ⚡ Fun fact **"If at first you don’t succeed; call it version 1.0"**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dembasow98/dembasow98/86da77e21188ceab64df98b19e1c9fcd60b4fa82/github-contribution-snake-game-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dembasow98/dembasow98/86da77e21188ceab64df98b19e1c9fcd60b4fa82/github-contribution-snake-game-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dembasow98/dembasow98/86da77e21188ceab64df98b19e1c9fcd60b4fa82/github-contribution-snake-game.svg">
+</picture>
+
+
 ## CONTACTS & SOCIAL MEDIA
 
  <div align="center">
