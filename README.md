@@ -1,4 +1,8 @@
 ![banner2](https://github.com/dembasow98/dembasow98/blob/main/images/cover.png?raw=true)
+<br/>
+<div align="center">
+    <p align="center"> <img width ="300" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
+</div>
 
 ## PORTFOLIO
 <h4>
@@ -7,9 +11,6 @@
     Particularly passionate about web and mobile development.
 </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, MERN stack, tailwind, NextJS, GetStream.io and more**
 
@@ -35,6 +36,14 @@
            <a href="https://linkedin.com/in/demba-sow-95903a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edin.com/in/demba-sow-95903a22a/" height="30" width="40" />
                 <br />
                 <sub><b>demba-sow-95903a22a</b></sub>
+            </a>
+            <br />
+          </td>
+          <td align="center">
+            <a href="https://stackoverflow.com/users/13099778/lordvoldemort" target="blank">
+                <img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.png" alt="https://stackoverflow.com/users/13099778/lordvoldemort" height="30" width="40" />
+                <br />
+                <sub><b>lordvoldemort</b></sub>
             </a>
             <br />
         </td>
