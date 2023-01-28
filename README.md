@@ -170,31 +170,31 @@
 <h1 align="center"> 6️⃣ POPULAR PROJECTS 🚀</h1>
 
 
-<a href="https://github.com/dembasow98/Pinteress-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Pinteress-Clone&show_icons=true&theme=tokyonight" alt="Pinterest-clone" />
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/dembasow98/Pinteress-Clone" title="Pinterest Clone"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Pinteress-Clone&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/dembasow98/chatGPT-clone-API" title="ChatGPT Clone"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=chatGPT-clone-API&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/dembasow98/movies-recommendation-system" title="Movies recommendation system"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=movies-recommendation-system&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/dembasow98/Google-Clone" title="Google clone"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Google-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/dembasow98/eight-python-projects" title="8 Python projects>
+    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=eight-python projects&theme=react&border_color=61dafb&border_radius=10">
 </a>
+</div>
 
-<a href="https://github.com/dembasow98/chatGPT-clone-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=chatGPT-clone-API&show_icons=true&theme=tokyonight" alt="chatgpt-clone" />
-</a>
-
-<a href="https://github.com/dembasow98/movies-recommendation-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=movies-recommendation-system&show_icons=true&theme=tokyonight" alt="Movies-recommendation-system" />
-</a>
-
-<a href="https://github.com/dembasow98/Google-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Google-Clone&show_icons=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/dembasow98/eight-python-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=eight-python-projects&show_icons=true&theme=tokyonight" />
-</a>
-
-
+<h4 align="center">
+  <a href="https://github.com/dembasow98?tab=repositories" title="Show Repositories">➕ Show more projects 🔍</a>
+</h4>
+                                                                                    
 ---
 <br/>
 
-<h1 align="center"> 7️⃣ MY ORGANIZATIONS </h1>
+<h1 align="center"> 7️⃣ MY ORGANIZATIONS ➕ </h1>
 <div align="center">
     <table>
       <tr>
