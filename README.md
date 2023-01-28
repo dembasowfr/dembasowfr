@@ -1,5 +1,10 @@
 ![banner2](https://github.com/dembasow98/dembasow98/blob/main/images/cover.png?raw=true)
 <br/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Icha+boy+DEMBA+SOW+🤙;What+a+pleasure;to+have+you+here!;&center=true&size=30">
+  </a>
+</h1>
 <div align="center">
     <p align="center"> <img width ="300" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
 </div>
