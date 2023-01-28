@@ -40,22 +40,17 @@
 
 <h3 align="center"> I LOVE SOCIALIZING 🧑‍🤝‍🧑</h3>
 
-                                                If you want to talk about anything, just contact me 🤙
-                                                My friends used to say that, I am a funny a** dude 🌝
-                                                I love people, I will be extremely happy meeting you 🤗
+                                            If you want to talk about anything, just contact me 🤙
+                                            My friends used to say that, I am a funny a** dude 🌝
+                                            I love people, I will be extremely happy meeting you 🤗
 
 <h3 align="center">PROBABLY LISTENING TO MUSIC RIGHT NOW 🎧</h3>
 
-                                                Usually, I wonder how people live or code specially without music 🙃
-                                                I really like music 🎵
-    
-<h3 align="center">MIGHT BE READING SOME BOOKS 📚</h3>
-
-                                                 Reading is a daily habit for me 📘
-                                                 I really like to read or listen to podcasts 🎵
-                                                 Today's reader, is tomorrow's leader, so read more my friend 😆
-
+                                            Usually, I wonder how people live or code specially without music 🙃
+                                            I really like music 🎵
+                                                
 <!-- Nothing weird to see here -->
+
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
@@ -66,6 +61,12 @@
 <p align="center">
   <img src="https://readme.andyruwruw.com/api/top-played">
 </p>
+    
+<h3 align="center">MIGHT BE READING SOME BOOKS 📚</h3>
+
+                                             Reading is a daily habit for me 📘
+                                             I really like to read or listen to podcasts 🎵
+                                             Today's reader, is tomorrow's leader, so read more my friend 😆
 
 ---
 <br/>
