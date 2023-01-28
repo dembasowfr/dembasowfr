@@ -15,9 +15,9 @@
 
 <h3>
     
-            Grounded and solution-oriented Computer Engineering Student with a wide variety of experiences.
-            Adapt high level of self-motivation, work ethic and teamwork.
-            Particularly passionate about web, mobile development and machine learning.
+        Grounded and solution-oriented Computer Engineering Student with a wide variety of experiences.
+        Adapt high level of self-motivation, work ethic and teamwork.
+        Particularly passionate about web, mobile development and machine learning.
     
  </h3>
 
