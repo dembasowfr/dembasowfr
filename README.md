@@ -174,32 +174,26 @@
   <a align="left" href="https://github.com/dembasow98/Pinteress-Clone" title="Pinterest Clone"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Pinteress-Clone&theme=tokyonight&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/dembasow98/chatGPT-clone-API" title="ChatGPT Clone"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=chatGPT-clone-API&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br/>
-
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/dembasow98/movies-recommendation-system" title="Movies recommendation system"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=movies-recommendation-system&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/dembasow98/Google-Clone" title="Google clone"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Google-Clone&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<a align="center" href="https://github.com/dembasow98/eight-python-projects" title="8 Python projects"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=eight-python projects&theme=tokyonight&border_color=61dafb&border_radius=10">
+</a>
 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
-
-<div width="100%" align="center">
-     <a align="center" href="https://github.com/dembasow98/eight-python-projects" title="8 Python projects"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=eight-python projects&theme=tokyonight&border_color=61dafb&border_radius=10">
-    </a>
-</div>
-
-<br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/dembasow98?tab=repositories" title="Show Repositories">➕ Show more projects 🔍</a>
 </h4>
                                                                                     
 ---
+<br/>
 <br/>
 
 <h1 align="center"> 7️⃣ MY ORGANIZATIONS ➕ </h1>
