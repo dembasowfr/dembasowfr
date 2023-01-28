@@ -4,6 +4,34 @@
     <p align="center"> <img width ="300" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
 </div>
 
+## HOBIES
+
+#### I LOVE SOCIALIZING 🧑‍🤝‍🧑
+    * If you want to talk about anything, just contact me 🤙
+    * My friends used to say that, I am a funny a** dude 🌝
+    * I love people, I will be extremely happy meeting you 🤗
+
+#### PROBABLY LISTENING TO MUSIC RIGHT NOW 🎧
+
+    * Usually, I wonder how people live or code specially without music 🙃
+    * I really like music 🎵
+#### MIGHT BE READING SOME BOOKS 📚
+   * Reading is a daily habit for me 📘
+   * I really like to read or listen to podcasts 🎵
+   * Today's reader, is tomorrow's leader, so read more my friend 😆
+
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://readme.andyruwruw.com/api/now-playing">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme.andyruwruw.com/api/top-played">
+</p>
+
 ## PORTFOLIO
 <h4>
     Grounded and solution-oriented junior Computer Engineering Student with a wide variety of experiences. <br/>
