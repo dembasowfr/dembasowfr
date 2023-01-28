@@ -42,14 +42,14 @@
 
                                             If you want to talk about anything, just contact me 🤙
                                             My friends used to say that, I am a funny a** dude 🌝
-                                            I love people, I will be extremely happy meeting you 🤗
+                                            I love people, will be threallled and very happy meeting you 🤗
 
 <h3 align="center">PROBABLY LISTENING TO MUSIC RIGHT NOW 🎧</h3>
 
-                                            Usually, I wonder how people live or code specially without music 🙃
-                                            I really like music 🎵
+                                            I like listening to music 🎵
+                                            One good thing about music, when it hits you, you feel no pain 🤪
+                                            What's your favorite genre of music? song? 🤔
                                                 
-<!-- Nothing weird to see here -->
 
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
