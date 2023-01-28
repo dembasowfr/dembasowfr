@@ -64,9 +64,9 @@
     
 <h3 align="center">MIGHT BE READING SOME BOOKS 📚</h3>
 
-                                             Reading is a daily habit for me 📘
-                                             I really like to read or listen to podcasts 🎵
-                                             Today's reader, is tomorrow's leader, so read more my friend 😆
+                                         Reading is a daily habit for me 📘
+                                         I really like to read or listen to podcasts 🎵
+                                         Today's reader, is tomorrow's leader, so read more my friend 😆
 
 ---
 <br/>
@@ -83,30 +83,26 @@
 
 <div align=center>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dembasow98&theme=react&border=61dafb&hide_border=true" alt="dembasow98" />
+  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dembasow98&theme=tokyonight&border=61dafb&hide_border=true" alt="dembasow98" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
 </a>
 </div>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <div align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dembasow98&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</a>
-</div>
-
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dembasow98&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dembasow98&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true" />
 </picture>
+</div>
     
 </div>
     
@@ -172,17 +168,7 @@
 <br/>
 
 ### Top Languages:
-<picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dembasow98&layout=compact&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dembasow98&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true" />
-</picture>
+
 
 ---
 <br/>
