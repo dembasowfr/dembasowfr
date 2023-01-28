@@ -1,13 +1,14 @@
 ![banner2](https://github.com/dembasow98/dembasow98/blob/main/images/cover.png?raw=true)
 <br/>
+<div align="right">
+    <p align="right"> <img width ="150" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Icha+boy+DEMBA+SOW+🤙;What+a+pleasure;to+have+you+here!;&center=true&size=30">
   </a>
 </h1>
-<div align="center">
-    <p align="center"> <img width ="300" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
-</div>
+
 
 <h1 align="center">  HOBIES </h1>
 
@@ -40,7 +41,7 @@
   <img src="https://readme.andyruwruw.com/api/top-played">
 </p>
 
-## PORTFOLIO
+<h1 align="center">PORTFOLIO 👨‍💻</h1>
 <h4>
     Grounded and solution-oriented junior Computer Engineering Student with a wide variety of experiences. <br/>
     Adapt high level of self-motivation, work ethic and teamwork. <br/>
