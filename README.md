@@ -1,8 +1,11 @@
 ![banner2](https://github.com/dembasow98/dembasow98/blob/main/images/cover.png?raw=true)
+
 <br/>
 <div align="right">
     <p align="right"> <img width ="150" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
 </div>
+<h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Icha+boy+DEMBA+SOW+🤙;What+a+pleasure;to+have+you+here!;&center=true&size=30">
@@ -10,7 +13,30 @@
 </h1>
 
 
-<h1 align="center">  HOBIES </h1>
+<h3>
+    
+            Grounded and solution-oriented Computer Engineering Student with a wide variety of experiences.
+            Adapt high level of self-motivation, work ethic and teamwork.
+            Particularly passionate about web, mobile development and machine learning.
+    
+ </h3>
+
+<h5 align="center">
+
+            🌱 I’m currently learning "Machine Learning, MERN stack, tailwind, NextJS, GetStream.io and more"
+
+            👨‍💻 All of my projects are available here on my github.
+
+            💬 Ask me about "javascript, python, c++, react, redux, tailwind, bootstrap, nodeJS etc"
+
+            ⚡ Fun fact "If at first you don’t succeed; call it version 1.0"
+    
+</h5>
+
+---
+<br/>
+
+<h1 align="center">🥈 HOBIES 👨‍🏭 </h1>
 
 <h3 align="center"> I LOVE SOCIALIZING 🧑‍🤝‍🧑</h3>
 
@@ -41,24 +67,9 @@
   <img src="https://readme.andyruwruw.com/api/top-played">
 </p>
 
-<h1 align="center">PORTFOLIO 👨‍💻</h1>
-<h4>
-    Grounded and solution-oriented junior Computer Engineering Student with a wide variety of experiences. <br/>
-    Adapt high level of self-motivation, work ethic and teamwork. <br/>
-    Particularly passionate about web and mobile development.
-</h4>
-
-
-- 🌱 I’m currently learning **Machine Learning, MERN stack, tailwind, NextJS, GetStream.io and more**
-
-- 👨‍💻 All of my projects are available here on my github.
-
-- 💬 Ask me about **javascript, python, c++, react, redux, tailwind, bootstrap, nodeJS etc**
-
-- ⚡ Fun fact **"If at first you don’t succeed; call it version 1.0"**
-
 ---
 <br/>
+
 
 ## CONTRIBUTIONS
 
