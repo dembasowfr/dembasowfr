@@ -6,9 +6,9 @@
 </div>
 <h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1>
 
-<h1 align="center">
+<h1 align="center" width="100%">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Icha+boy+DEMBA+SOW+🤙;What+a+pleasure;to+have+you+here!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Whalecome🐳;to+the+neighboorhood;Icha+boy+DEMBA+SOW+🤙;What+a+pleasure;to+have+you+here!;&center=true&size=30">
   </a>
 </h1>
 
