@@ -240,3 +240,11 @@
     </tr>
     </table>
 </div>
+
+---
+<br/>
+<h1 align="center" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=It+was+a+pleasure+👽;Having+you+here+👌;Hope+you+enjoyed+it+🤪;BYE+BYE+👋👋👋;&center=true&size=30&text_color=yellow">
+  </a>
+</h1>
