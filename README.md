@@ -165,7 +165,7 @@
     
 </h3>
 <h3 align="center">
-  <img width="450px" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,next,materialui" />
+  <img width="450px" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,typescript,next,materialui" />
 </h3>
 
 
@@ -203,10 +203,10 @@
 </p>
 
 <p align="center">
-  <img width="560px" src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,arduino,atom,idea" />
+  <img width="350px" src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,arduino,atom,idea" />
 </p>
 <p align="center">
-    <img width="400px" src="https://skillicons.dev/icons?i=git,bash,postman,docker,fastapi,figma,heroku,netlify"/>
+    <img width="450px" src="https://skillicons.dev/icons?i=git,github,bash,postman,docker,fastapi,figma,heroku,netlify"/>
 </p>
 
 ---
