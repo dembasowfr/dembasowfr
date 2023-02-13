@@ -213,8 +213,12 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Enjoying+it+so+far+?;You+can+support+me;By+following+me;and/or;Giving+star+to+my+project(s);Keep+going;There+is+more;to+discover!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Enjoying+it+so+far+?;You+can+support+me;By+following+me;and/or;Giving+star+to+my+project(s);and/or;Buy+me+Turkish+Çay;Keep+going;There+is+more;to+discover!" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center"> 
+ <a href="https://ko-fi.com/dembasow98"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dembasow98" /> </a> 
 </p>
 
 ---
