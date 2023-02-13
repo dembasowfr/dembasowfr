@@ -213,7 +213,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Enjoying+it+so+far+?;You+can+support+me;By+following+me;and/or;Giving+star+to+my+project(s);and/or;Buy+me+Turkish+Çay;Keep+going;There+is+more;to+discover!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Enjoying+it+so+far+🥳?;You+can+support+me:;1.+Follow+me;2.Star+my+project(s);3.+Buy+me+Turkish+Çay🤪;Keep+going;There+is+more;to+discover⏬!" alt="Typing SVG" />
   </a>
 </p>
 
