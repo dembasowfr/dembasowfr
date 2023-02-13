@@ -159,25 +159,54 @@
 
 <h1 align="center"> 5️⃣ LANGUAGES 💻 & TOOLS 🧰 </h1>
 
-### Frontend
+<h3 align="center">
 
+        < Frontend />
+    
+</h3>
+<h3 align="center">
+  <img width="450px" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,next,materialui" />
+</h3>
+
+
+<h3 align="center">
+
+        < Backend />
+    
+</h3>
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,next,webpack,md,materialui" />
+  <img width="350px" src="https://skillicons.dev/icons?i=python,django,nodejs,express,nestjs,mysql,graphql" />
+</p>
+<p align="center">
+  <img width="150px" src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
 </p>
 
-### Backend
+<h3 align="center">
+    
+        < Machine Learning />
+
+</h3>
+
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=python,java,nodejs,express,nestjs,mysql,postgres,mongodb,graphql,django,firebase,sanity,streamio" />
+  <img width="100px" src="https://skillicons.dev/icons?i=py,pytorch" />
 </p>
 
-### Machine Learning
+
+<h3 align="center">
+    
+        < Other Languages & Tools />
+    
+</h3>
+
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=jupyter,opencv,collaboration," />
+  <img width="400px" src="https://skillicons.dev/icons?i=cpp,c,cs,java,php,kotlin,flutter,flask" />
 </p>
 
-### Tools
 <p align="center">
-  <img width="350px" src="https://skillicons.dev/icons?i=vscode,idea,git,bash,github,docker," />
+  <img width="560px" src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,arduino,atom,idea" />
+</p>
+<p align="center">
+    <img width="400px" src="https://skillicons.dev/icons?i=git,bash,postman,docker,fastapi,figma,heroku,netlify"/>
 </p>
 
 ---
