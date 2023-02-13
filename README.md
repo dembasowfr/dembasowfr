@@ -209,20 +209,28 @@
     <img width="450px" src="https://skillicons.dev/icons?i=git,github,bash,postman,docker,fastapi,figma,heroku,netlify"/>
 </p>
 
----
-<br/>
+<h3 align="center">
+    
+    ...
+    
+</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Enjoying+it+so+far+🥳?;You+can+support+me:;1.+Follow+me;2.Star+my+project(s);3.+Buy+me+Turkish+Çay🤪;Keep+going;There+is+more;to+discover⏬!" alt="Typing SVG" />
   </a>
 </p>
 
+
+
 <p align="center"> 
  <a href="https://ko-fi.com/dembasow98"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dembasow98" /> </a> 
 </p>
 
----
-<br/>
+<h3 align="center">
+
+    ...
+    
+</h3>
 
 <h1 align="center"> 6️⃣ POPULAR PROJECTS 🚀</h1>
 
