@@ -1,6 +1,3 @@
-![banner2](https://github.com/dembasow98/dembasow98/blob/main/images/cover.png?raw=true)
-
-<br/>
 <div align="right">
     <p align="right"> <img width ="150" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
 </div>
