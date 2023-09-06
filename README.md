@@ -9,7 +9,6 @@
   </a>
 </h1>
 
-
 <h3>
     
         Grounded and solution-oriented Computer Engineering Student with a wide variety of experiences.
