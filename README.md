@@ -1,126 +1,165 @@
-<!-- <img src="./Misc/waasiq-2.gif" /> -->
-
-<p>&nbsp;</p>
-
-
-## 📚 About Me:
-
-<a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/coding.gif"></a> 
-<div align="left" style="padding-right: 5px;">
-<ul style="line-height: 25px;" >
-  <li> 👨‍💻 I am looking for full stack web development jobs at the moment. </li>
-  <li>🎓 I am last semester Computer Engineering student at Sakarya University, Turkey.</li>
-  <li>📙 I am interested in full stack web development, cyber security and 
-  self quantification. </li>
-  <li>📚 As a side project I am working on my personal digital garden.
-  You can check it out <a href="https://github.com/waasiq/exobrain"> here.</a></li>
-  <li>🎯 I'm working on my final year project which uses Deep learning and full stack development.</li>
-  <li>🎮 I love playing <a href="https://exobrain-waasiq.netlify.app/docs/games/" >video games</a></li>
-  <li>📧 You can reach me at <a href="mailto:waasiqmasood@gmail.com">here</a></li>
+<p>
+  <img  width ="150" align="right" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98">
+</p> 
+<div align="left">
+  <h1> 🥇 PORTFOLIO 👨‍💻</h1>
 </div>
-
-<p>&nbsp;</p>
-
-![Snake](https://raw.githubusercontent.com/waasiq/waasiq/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg)
-
-## 👨🏻‍💻 My Languages/Tools:
 <div>
-<p>&nbsp;</p>
-<p align="center">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
-<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> 
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs"/> 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
-<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/> 
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> 
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/> 
-</p>
-
-<p>&nbsp;</p>
-<p align="center">
-<img  alt='vscode' src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img  alt='git' src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img  alt='opencv' src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="spyder" /> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="dynamodb" />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase" />
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-</p>
+  <a href="https://dembashow.tech/">
+    <img src="./images/DEMBA SOW.png" alt="Demba sow | Full stack web developer"/>
+  </a>
 </div>
 
+<!-- <h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1> -->
+
+- 👨‍💻 Recent Computer Engineering Graduate @<a href="https://sakarya.edu.tr">University of Sakarya</a>
+- 💼 Actively seeking challenging job opportunities in the web development and AI fields.
+- 🧠 Expertise in web development and passionate about artificial intelligence (AI), and machine learning.
+- 🎯 As a side project, I am working on DesTech, a company aiming to transform ideas into digital world.
+- 💻 Part time full-stack developer and content writer @<a href="https://carcheckup.co.uk/">CarCheckUp UK</a>
+- 🤖 Hybrid and part time machine learning and AI engineer @<a href="https://rework3.com/">Work3 Teknoloji</a>
+- 💡 Proficient in Python, JavaScript and frameworks <a href="https://www.djangoproject.com/">Django</a> <a href="https://react.dev/">React.js</a> <a href="https://nodejs.org/en">Node.js</a> <a href="https://nextjs.org/">Next.js</a> and <a href="https://tailwindcss.com/">Tailwindcss</a>
+- 🤗 Exceptional interpersonal and leadership abilities, characterized by a friendly and sociable nature.
+- 🏆 President of the Mauritanian Student Union @<a href="https://sakarya.edu.tr">University of Sakarya</a> for 2 years.
+- 🌏 Completed a year-long <a href="https://erasmus-plus.ec.europa.eu/">Erasmus+ student exchange program</a> at @<a href="https://www.ipvc.pt/en/">Polytechnic Institute of Viana do Castelo</a> - Portugal.
+- 🏅 Fully Founded Bachelor's degree by Turkiye Government Award
+- 😜 Joe Biden's love for ice cream rivals mine, and that's no small scoop!🍦😉.
 <p>&nbsp;</p>
 
-
-
-<details>
-<summary>Contact me</summary>
-
-## ☎️ Contact Me:
-
-
-  ---
 <p align="center">
-<a href="mailto:waasiqmasood@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'></a>
-<a href="https://www.linkedin.com/in/iwaasiq"/><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+<a href="https://dembashow.tech/"><img src='https://img.shields.io/badge/MY%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=website&logoColor=green' alt='website'></a>
+<a href="mailto:dastech1998@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'></a>
+<a href="https://www.linkedin.com/in/dembasowfr/"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+<a href="https://twitter.com/dembasowfr/"><img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter'></a>
+<a href="https://www.instagram.com/dembasowofficial/"><img src='https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram'></a>
 
-</details>
 
-<p>&nbsp;</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-<details>
-<summary>My Github Stats</summary>
+<!-- ![Snake](https://raw.githubusercontent.com/dembasow98/dembasow98/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg) -->
 
-## 📈 My Github Stats:     <a href="https://github.com/waasiq"> <img src="https://komarev.com/ghpvc/?username=waasiq&label=Profile+Views&color=2e8b57&style=flat" /></a>
+<div align="left">
+  <h1>🥈 SKILLS 👨‍💻</h1>
+</div>
 
-  ---
-<a href="https://github.com/waasiq">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=waasiq&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" /></a>
-<a href="https://github.com/waasiq/">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waasiq&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" /></a>
-  
-  ---
-  
-<p align="center">
-<a href="https://github.com/waasiq/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=waasiq&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt='stats' />
+
+### FRONTEND
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js"/> 
+  <img src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/>
+</p>
+
+### BACKEND
+<p align="left">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs"/> 
+  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> 
+  <img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/> 
+  <img src="https://img.shields.io/badge/prisma-%230E1E24.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma"/>
+</p>
+
+### DATABASE
+<p align="left">
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase" />
+</p>
+
+### ARTIFICIAL INTELLIGENCE
+<p align="left">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/nltk-%23339667.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="nltk"/>
+  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" />
+</p>
+
+
+### OTHERS
+<p align="left">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
+<img src="https://img.shields.io/badge/yii2-%23072b3e.svg?style=for-the-badge&logo=yii&logoColor=white" alt="yii2"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
+<img src="https://img.shields.io/badge/microsoft%20word-%23156817.svg?style=for-the-badge&logo=microsoft%20word&logoColor=white" alt="word"/>
+<img src="https://img.shields.io/badge/microsoft%20excel-%23217346.svg?style=for-the-badge&logo=microsoft%20excel&logoColor=white" alt="excel"/>
+</p>
+
+
+
+
+<!-- ![Snake](https://raw.githubusercontent.com/dembasow98/dembasow98/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg) -->
+
+<div align="left">
+  <h1>🥉 GITHUB STATS 📈</h1>
+</div>
+   
+<a href="https://github.com/dembasow98">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dembasow98&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" />
 </a>
 
-  ---
+<a href="https://github.com/dembasow98/">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dembasow98&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" />
+</a>
   
-</details>
+
+  
+<p align="center">
+<a href="https://github.com/dembasow98/">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dembasow98&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt='stats' />
+</a>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true" />
+</picture>
   
 <p>&nbsp;</p>
 
 <!-- PROJECTS -->
+<div align="left">
+  <h1>4️⃣ POPULAR PROJECTS 🚀</h1>
+</div>
 
-## 🚀 My Projects:
 <p align="center">
-  <a href="https://github.com/waasiq/yakamoz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=yakamoz&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" />
+  <a href="https://github.com/dembasow98/Pinteress-Clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Pinteress-Clone&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" />
   </a>
 
-  <a href="https://github.com/waasiq/facebook-clone-react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=facebook-clone-react&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+  <a href="https://github.com/dembasow98/movies-recommendation-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=movies-recommendation-system&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
-  <a href="https://github.com/waasiq/icare">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=icare&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+  <a href="https://github.com/dembasow98/chatGPT-clone-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=chatGPT-clone-API&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
 
-  <a href="https://github.com/waasiq/project-euler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=project-euler&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+  <a href="https://github.com/dembasow98/Google-Clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Google-Clone&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
-  <a href="https://github.com/waasiq/leetcode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=leetcode&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+  <a href="https://github.com/dembasow98/simple-getstream-chat-app-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=simple-getstream-chat-app-2&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
-  <a href="https://github.com/waasiq/cancerware">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&theme=tokyonight&repo=cancerware&hide_border=true&border_radius=15&&line_height=24" /></a>
+  <a href="https://github.com/dembasow98/eight-python-projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&theme=tokyonight&repo=eight-python-projects&hide_border=true&border_radius=15&&line_height=24" /></a>
   
   
 
