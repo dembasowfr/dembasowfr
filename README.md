@@ -34,14 +34,6 @@
 <a href="https://www.instagram.com/dembasowofficial/"><img src='https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram'></a>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-![Snake](https://raw.githubusercontent.com/dembasow98/dembasow98/output/github-contribution-grid-snake.svg)
-
 <div align="left">
   <h1>🥈 SKILLS 👨‍💻</h1>
 </div>
