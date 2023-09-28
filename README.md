@@ -13,16 +13,16 @@
 <!-- <h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1> -->
 
 - 👨‍💻 Recent Computer Engineering Graduate @<a href="https://sakarya.edu.tr">University of Sakarya</a>
-- 💼 Actively seeking challenging job opportunities in the web development and AI fields.
-- 🧠 Expertise in web development and passionate about artificial intelligence (AI), and machine learning.
-- 🎯 As a side project, I am working on DesTech, a company aiming to transform ideas into digital world.
+- 💼 Actively seeking challenging job opportunities in the <a href="https://dembashow.tech/">web development</a> and <a href="https://dembashow.tech/">AI</a> fields.
+- 🧠 Expertise in <a href="https://dembashow.tech/">web development</a> and passionate about <a href="https://dembashow.tech/">Artificial Intelligence</a>
+- 🎯 As a side project, I am working on <a href="https://dembashow.tech/">DesTech</a>, a company aiming to transform ideas into digital world.
 - 💻 Part time full-stack developer and content writer @<a href="https://carcheckup.co.uk/">CarCheckUp UK</a>
 - 🤖 Hybrid and part time machine learning and AI engineer @<a href="https://rework3.com/">Work3 Teknoloji</a>
 - 💡 Proficient in Python, JavaScript and frameworks <a href="https://www.djangoproject.com/">Django</a> <a href="https://react.dev/">React.js</a> <a href="https://nodejs.org/en">Node.js</a> <a href="https://nextjs.org/">Next.js</a> and <a href="https://tailwindcss.com/">Tailwindcss</a>
 - 🤗 Exceptional interpersonal and leadership abilities, characterized by a friendly and sociable nature.
 - 🏆 President of the Mauritanian Student Union @<a href="https://sakarya.edu.tr">University of Sakarya</a> for 2 years.
 - 🌏 Completed a year-long <a href="https://erasmus-plus.ec.europa.eu/">Erasmus+ student exchange program</a> at @<a href="https://www.ipvc.pt/en/">Polytechnic Institute of Viana do Castelo</a> - Portugal.
-- 🏅 Fully Founded Bachelor's degree by Turkiye Government Award
+- 🏅 Fully Founded Bachelor's degree by <a href="https://turkiyemaarif.org/">Turkiye Government</a>
 - 😜 Joe Biden's love for ice cream rivals mine, and that's no small scoop!🍦😉.
 <p>&nbsp;</p>
 
