@@ -40,7 +40,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![Snake](https://raw.githubusercontent.com/dembasow98/dembasow98/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/dembasow98/dembasow98/output/github-contribution-grid-snake.svg)
 
 <div align="left">
   <h1>🥈 SKILLS 👨‍💻</h1>
