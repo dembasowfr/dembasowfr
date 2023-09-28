@@ -1,302 +1,128 @@
-<div align="right">
-    <p align="right"> <img width ="150" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98"/> </p>
+<!-- <img src="./Misc/waasiq-2.gif" /> -->
+
+<p>&nbsp;</p>
+
+
+## 📚 About Me:
+
+<a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/coding.gif"></a> 
+<div align="left" style="padding-right: 5px;">
+<ul style="line-height: 25px;" >
+  <li> 👨‍💻 I am looking for full stack web development jobs at the moment. </li>
+  <li>🎓 I am last semester Computer Engineering student at Sakarya University, Turkey.</li>
+  <li>📙 I am interested in full stack web development, cyber security and 
+  self quantification. </li>
+  <li>📚 As a side project I am working on my personal digital garden.
+  You can check it out <a href="https://github.com/waasiq/exobrain"> here.</a></li>
+  <li>🎯 I'm working on my final year project which uses Deep learning and full stack development.</li>
+  <li>🎮 I love playing <a href="https://exobrain-waasiq.netlify.app/docs/games/" >video games</a></li>
+  <li>📧 You can reach me at <a href="mailto:waasiqmasood@gmail.com">here</a></li>
 </div>
-<h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1>
 
-<h1 align="center" width="100%">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Whalecome🐳;&center=true&size=30">
-  </a>
-</h1>
+<p>&nbsp;</p>
 
-<h3>
-    
-        Grounded and solution-oriented Computer Engineering Student with a wide variety of experiences.
-        Adapt high level of self-motivation, work ethic and teamwork.
-        Particularly passionate about web, mobile development and machine learning.
-    
- </h3>
+![Snake](https://raw.githubusercontent.com/waasiq/waasiq/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg)
 
-<h5 align="center">
-
-            🌱 I’m currently learning "Machine Learning, MERN stack, tailwind, NextJS, GetStream.io and more"
-
-            👨‍💻 All of my projects are available here on my github.
-
-            💬 Ask me about "javascript, python, c++, react, redux, tailwind, bootstrap, nodeJS etc"
-
-            ⚡ Fun fact "If at first you don’t succeed; call it version 1.0"
-    
-</h5>
-
----
-<br/>
-
-<h1 align="center">🥈 HOBIES 👨‍🏭 </h1>
-
-<h3 align="center"> I LOVE SOCIALIZING 🧑‍🤝‍🧑</h3>
-
-                                            If you want to talk about anything, just contact me 🤙
-                                            My friends used to say that, I am a funny a** dude 🌝
-                                            I love people, will be threallled and very happy meeting you 🤗
-
-<h3 align="center">PROBABLY LISTENING TO MUSIC RIGHT NOW 🎧</h3>
-
-                                            I like listening to music 🎵
-                                            One good thing about music, when it hits you, you feel no pain 🤪
-                                            What's your favorite genre of music? song? 🤔
-                                                
-
+## 👨🏻‍💻 My Languages/Tools:
+<div>
+<p>&nbsp;</p>
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://readme.andyruwruw.com/api/now-playing">
-  </a>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
+<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> 
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs"/> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/> 
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> 
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/> 
 </p>
 
+<p>&nbsp;</p>
 <p align="center">
-  <img src="https://readme.andyruwruw.com/api/top-played">
+<img  alt='vscode' src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img  alt='git' src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img  alt='opencv' src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="spyder" /> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="dynamodb" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </p>
-    
-<h3 align="center">MIGHT BE READING SOME BOOKS 📚</h3>
+</div>
 
-                                         Reading is a daily habit for me 📘
-                                         I really like to read or listen to podcasts 🎵
-                                         Today's reader, is tomorrow's leader, so read more my friend 😆
-
----
-<br/>
+<p>&nbsp;</p>
 
 
-<h1 align="center">🥉 STATS 📈 & CONTRIBUTIONS ↗️ </h1>
 
-<div align = "center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dembasow98/dembasow98/86da77e21188ceab64df98b19e1c9fcd60b4fa82/github-contribution-snake-game-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dembasow98/dembasow98/86da77e21188ceab64df98b19e1c9fcd60b4fa82/github-contribution-snake-game-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dembasow98/dembasow98/86da77e21188ceab64df98b19e1c9fcd60b4fa82/github-contribution-snake-game.svg">
-</picture>
+<details>
+<summary>Contact me</summary>
 
-<div align=center>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dembasow98&theme=tokyonight&border=61dafb&hide_border=true" alt="dembasow98" />
+## ☎️ Contact Me:
+
+
+  ---
+<p align="center">
+<a href="mailto:waasiqmasood@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'></a>
+<a href="https://www.linkedin.com/in/iwaasiq"/><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+
+</details>
+
+<p>&nbsp;</p>
+
+<details>
+<summary>My Github Stats</summary>
+
+## 📈 My Github Stats:     <a href="https://github.com/waasiq"> <img src="https://komarev.com/ghpvc/?username=waasiq&label=Profile+Views&color=2e8b57&style=flat" /></a>
+
+  ---
+<a href="https://github.com/waasiq">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=waasiq&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" /></a>
+<a href="https://github.com/waasiq/">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waasiq&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" /></a>
+  
+  ---
+  
+<p align="center">
+<a href="https://github.com/waasiq/">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=waasiq&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt='stats' />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-</a>
-</div>
-<br><br><br><br><br><br><br><br>
-<div align=center>
-<picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dembasow98&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dembasow98&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true" />
-</picture>
-</div>
-    
-</div>
-    
----
-<br/>
 
-<h1 align="center">4️⃣ CONTACTS 📲 & SOCIAL MEDIA 🤙 </h1>
+  ---
+  
+</details>
+  
+<p>&nbsp;</p>
 
- <div align="center">
-    <table>
-      <tr>
-       <td align="center">
-        <a href="mailto:dastech1998@gmail.com" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="demba sow" height="30" width="40" />
-            <br />
-            <sub><b>dastech1998@gmail.com</b></sub>
-        </a>
-        <br />
-        </td>
-        <td align="center">
-           <a href="https://linkedin.com/in/demba-sow-95903a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edin.com/in/demba-sow-95903a22a/" height="30" width="40" />
-                <br />
-                <sub><b>demba-sow-95903a22a</b></sub>
-            </a>
-            <br />
-          </td>
-          <td align="center">
-            <a href="https://stackoverflow.com/users/13099778/lordvoldemort" target="blank">
-                <img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.png" alt="https://stackoverflow.com/users/13099778/lordvoldemort" height="30" width="40" />
-                <br />
-                <sub><b>lordvoldemort</b></sub>
-            </a>
-            <br />
-        </td>
-        <td align="center">
-            <a href="https://instagram.com/dembasowfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/dembasowfr" height="30" width="40" />
-                <br />
-                <sub><b>dembasowfr</b></sub>
-            </a>
-            <br />
-        </td>
-       <td align="center">
-        <a href="https://www.hackerrank.com/dastech1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dastech1998" height="30" width="40" />
-            <br />
-            <sub><b>dastech1998</b></sub>
-        </a>
-        <br />
-        </td>
-    </tr>
-    </table>
-</div>
+<!-- PROJECTS -->
 
----
-<br/>
-
-<h1 align="center"> 5️⃣ LANGUAGES 💻 & TOOLS 🧰 </h1>
-
-<h3 align="center">
-
-        < Frontend />
-    
-</h3>
-<h3 align="center">
-  <img width="450px" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,typescript,next,materialui" />
-</h3>
-
-
-<h3 align="center">
-
-        < Backend />
-    
-</h3>
+## 🚀 My Projects:
 <p align="center">
-  <img width="350px" src="https://skillicons.dev/icons?i=python,django,nodejs,express,nestjs,mysql,graphql" />
-</p>
-<p align="center">
-  <img width="150px" src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
-</p>
-
-<h3 align="center">
-    
-        < Machine Learning />
-
-</h3>
-
-<p align="center">
-  <img width="100px" src="https://skillicons.dev/icons?i=py,pytorch" />
-</p>
-
-
-<h3 align="center">
-    
-        < Other Languages & Tools />
-    
-</h3>
-
-<p align="center">
-  <img width="400px" src="https://skillicons.dev/icons?i=cpp,c,cs,java,php,kotlin,flutter,flask" />
-</p>
-
-<p align="center">
-  <img width="350px" src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,arduino,atom,idea" />
-</p>
-<p align="center">
-    <img width="450px" src="https://skillicons.dev/icons?i=git,github,bash,postman,docker,fastapi,figma,heroku,netlify"/>
-</p>
-
-<h3 align="center">
-    
-    ...
-    
-</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Enjoying+it+so+far+🥳?;You+can+support+me:;1.+Follow+me;2.Star+my+project(s);3.+Buy+me+Turkish+Çay🤪;Keep+going;There+is+more;to+discover⏬!" alt="Typing SVG" />
+  <a href="https://github.com/waasiq/yakamoz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=yakamoz&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" />
   </a>
-</p>
+
+  <a href="https://github.com/waasiq/facebook-clone-react">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=facebook-clone-react&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+
+  <a href="https://github.com/waasiq/icare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=icare&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
 
+  <a href="https://github.com/waasiq/project-euler">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=project-euler&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
-<p align="center"> 
- <a href="https://ko-fi.com/dembasow98"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dembasow98" /> </a> 
-</p>
+  <a href="https://github.com/waasiq/leetcode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=leetcode&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
-<h3 align="center">
-
-    ...
-    
-</h3>
-
-<h1 align="center"> 6️⃣ POPULAR PROJECTS 🚀</h1>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/dembasow98/Pinteress-Clone" title="Pinterest Clone"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Pinteress-Clone&theme=tokyonight&border_color=61dafb&border_radius=10"/></a><a align="right" href="https://github.com/dembasow98/chatGPT-clone-API" title="ChatGPT Clone"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=chatGPT-clone-API&theme=tokyonight&border_color=61dafb&border_radius=10"/></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/dembasow98/movies-recommendation-system" title="Movies recommendation system"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=movies-recommendation-system&theme=tokyonight&border_color=61dafb&border_radius=10"/></a>
-  <a align="right" href="https://github.com/dembasow98/Google-Clone" title="Google clone"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=Google-Clone&theme=tokyonight&border_color=61dafb&border_radius=10"/></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-<a align="left" href="https://github.com/dembasow98/eight-python-projects" title="8 Python projects"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=eight-python-projects&theme=tokyonight&border_color=61dafb&border_radius=10"/></a><a align="right" href="https://github.com/dembasow98/simple-getstream-chat-app-2" title="Get Stream chat"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&repo=simple-getstream-chat-app-2&theme=tokyonight&border_color=61dafb&border_radius=10"/></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
+  <a href="https://github.com/waasiq/cancerware">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&theme=tokyonight&repo=cancerware&hide_border=true&border_radius=15&&line_height=24" /></a>
+  
+  
 
 
-<div width="100%" align="center">
-<h4 align="center">
-  <a href="https://github.com/dembasow98?tab=repositories" title="Show Repositories">➕ Show more projects 🔍</a>
-</h4>
-</div>                                                                                 
-
-
-<h1 align="center"> 7️⃣ MY ORGANIZATIONS ➕ </h1>
-<div align="center">
-    <table>
-      <tr>
-        <td align="center">
-            <a href="https://github.com/Tasarim-Bitirme">
-                <img src="https://avatars.githubusercontent.com/u/116443184?s=200&v=4" width="100px;" alt="" alt = "bookshelf" style="border-radius:50%"/>
-                <br />
-                <sub><b>Bookshelf</b></sub>
-            </a>
-            <br />
-        </td>
-        <td align="center">
-            <a href="https://github.com/Mobile-Computing-ESTG">
-                <img src="https://avatars.githubusercontent.com/u/102986260?s=200&v=4" width="100px;" alt="mobile-computing" style="border-radius:50%"/>
-                <br />
-                <sub><b>Mobile Development ESTG</b></sub>
-            </a>
-            <br />
-        </td>
-       <td align="center">
-        <a href="https://github.com/CLOUD-COMPUTING-ESTG">
-            <img src="https://avatars.githubusercontent.com/u/104578199?s=200&v=4" width="100px;" alt="cloud-computing" style="border-radius:50%"/>
-            <br />
-            <sub><b>Cloud Computing ESTG</b></sub>
-        </a>
-        <br />
-        </td>
-    </tr>
-    </table>
-</div>
-
----
-<br/>
-<h1 align="center" width="100%">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=It+was+a+pleasure+👽;Having+you+here+👌;Hope+you+enjoyed+it+🤪;&center=true&size=30&text_color=yellow">
-  </a>
-</h1>
-
+  ---
