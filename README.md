@@ -40,7 +40,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<!-- ![Snake](https://raw.githubusercontent.com/dembasow98/dembasow98/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg) -->
+![Snake](https://raw.githubusercontent.com/dembasow98/dembasow98/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg)
 
 <div align="left">
   <h1>🥈 SKILLS 👨‍💻</h1>
@@ -100,12 +100,9 @@
 
 
 
-<!-- ![Snake](https://raw.githubusercontent.com/dembasow98/dembasow98/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg) -->
+<details>
+<summary><h1>🥉 GITHUB STATS 📈</h1></summary>
 
-<div align="left">
-  <h1>🥉 GITHUB STATS 📈</h1>
-</div>
-   
 <a href="https://github.com/dembasow98">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dembasow98&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" />
 </a>
@@ -132,8 +129,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=dembasow98&show_icons=true" />
 </picture>
-  
+
 <p>&nbsp;</p>
+</details>
 
 <!-- PROJECTS -->
 <div align="left">
@@ -161,7 +159,3 @@
   <a href="https://github.com/dembasow98/eight-python-projects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dembasow98&theme=tokyonight&repo=eight-python-projects&hide_border=true&border_radius=15&&line_height=24" /></a>
   
-  
-
-
-  ---
