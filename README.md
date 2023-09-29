@@ -12,27 +12,27 @@
 
 <!-- <h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1> -->
 
-- 👨‍💻 Recent Computer Engineering Graduate @<a href="https://sakarya.edu.tr">University of Sakarya</a>
-- 💼 Actively seeking challenging job opportunities in the <a href="https://dembashow.tech/">web development</a> and <a href="https://dembashow.tech/">AI</a> fields.
-- 🧠 Expertise in <a href="https://dembashow.tech/">web development</a> and passionate about <a href="https://dembashow.tech/">Artificial Intelligence</a>
-- 🎯 As a side project, I am working on <a href="https://dembashow.tech/">DesTech</a>, a company aiming to transform ideas into digital world.
+- 👨‍💻 Recent Computer Engineering Graduate @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a>
+- 💼 Actively seeking challenging job opportunities in the <a target="_blank" href="https://dembashow.tech/">web development</a> and <a target="_blank" href="https://dembashow.tech/">AI</a> fields.
+- 🧠 Expertise in <a target="_blank" href="https://dembashow.tech/">web development</a> and passionate about <a target="_blank" href="https://dembashow.tech/">Artificial Intelligence</a>
+- 🎯 As a side project, I am working on <a target="_blank" href="https://dembashow.tech/">DesTech</a>, a company aiming to transform ideas into digital world.
 - 💻 Part time full-stack developer and content writer @<a href="https://carcheckup.co.uk/">CarCheckUp UK</a>
 - 🤖 Hybrid and part time machine learning and AI engineer @<a href="https://rework3.com/">Work3 Teknoloji</a>
-- 💡 Proficient in Python, JavaScript and frameworks <a href="https://www.djangoproject.com/">Django</a> <a href="https://react.dev/">React.js</a> <a href="https://nodejs.org/en">Node.js</a> <a href="https://nextjs.org/">Next.js</a> and <a href="https://tailwindcss.com/">Tailwindcss</a>
+- 💡 Proficient in Python, JavaScript and frameworks <atarget="_blank" href="https://www.djangoproject.com/">Django</a> <a target="_blank" href="https://react.dev/">React.js</a> <a target="_blank" href="https://nodejs.org/en">Node.js</a> <a target="_blank" href="https://nextjs.org/">Next.js</a> and <a target="_blank" href="https://tailwindcss.com/">Tailwindcss</a>
 - 🤗 Exceptional interpersonal and leadership abilities, characterized by a friendly and sociable nature.
-- 🏆 President of the Mauritanian Student Union @<a href="https://sakarya.edu.tr">University of Sakarya</a> for 2 years.
-- 🌏 Completed a year-long <a href="https://erasmus-plus.ec.europa.eu/">Erasmus+ student exchange program</a> at @<a href="https://www.ipvc.pt/en/">Polytechnic Institute of Viana do Castelo</a> - Portugal.
-- 🏅 Fully Founded Bachelor's degree by <a href="https://turkiyemaarif.org/">Turkiye Government</a>
+- 🏆 President of the Mauritanian Student Union @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a> for 2 years.
+- 🌏 Completed a year-long <a target="_blank" href="https://erasmus-plus.ec.europa.eu/">Erasmus+ student exchange program</a> at @<a target="_blank" href="https://www.ipvc.pt/en/">Polytechnic Institute of Viana do Castelo</a> - Portugal.
+- 🏅 Fully Founded Bachelor's degree by <a target="_blank" href="https://turkiyemaarif.org/">Turkiye Government</a>
 - 😜 Joe Biden's love for ice cream rivals mine, and that's no small scoop!🍦😉.
 <p>&nbsp;</p>
 
 <p align="center">
-<a href="https://dembashow.tech/"><img src='https://img.shields.io/badge/MY%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=website&logoColor=green' alt='website'></a>
-<a href="mailto:dastech1998@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'></a>
-<a href="https://www.linkedin.com/in/dembasowfr/"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
-<a href="https://twitter.com/dembasowfr/"><img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter'></a>
-<a href="https://www.instagram.com/dembasowofficial/"><img src='https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram'></a>
-
+  <a target="_blank" href="https://dembashow.tech/"><img src='https://img.shields.io/badge/MY%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=website&logoColor=green' alt='website'></a>
+  <a target="_blank" href="mailto:dastech1998@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'></a>
+  <a target="_blank" href="https://www.linkedin.com/in/dembasowfr/"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+  <a target="_blank" href="https://twitter.com/dembasowfr/"><img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter'></a>
+  <a target="_blank" href="https://www.instagram.com/dembasowofficial/"><img src='https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram'></a>
+</p>
 
 
 ### 🥈 SKILLS 👨‍💻
