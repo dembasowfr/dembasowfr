@@ -80,7 +80,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
-<img src="https://img.shields.io/badge/yii2-%23072b3e.svg?style=for-the-badge&logo=yii&logoColor=white" alt="yii2"/>
+<img src="https://img.shields.io/badge/yii-%23072b3e.svg?style=for-the-badge&logo=yii&logoColor=white" alt="yii"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
