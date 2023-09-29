@@ -18,7 +18,7 @@
 - 🎯 As a side project, I am working on <a target="_blank" href="https://dembashow.tech/">DesTech</a>, a company aiming to transform ideas into digital world.
 - 💻 Part time full-stack developer and content writer @<a href="https://carcheckup.co.uk/">CarCheckUp UK</a>
 - 🤖 Hybrid and part time machine learning and AI engineer @<a href="https://rework3.com/">Work3 Teknoloji</a>
-- 💡 Proficient in Python, JavaScript and frameworks <atarget="_blank" href="https://www.djangoproject.com/">Django</a> <a target="_blank" href="https://react.dev/">React.js</a> <a target="_blank" href="https://nodejs.org/en">Node.js</a> <a target="_blank" href="https://nextjs.org/">Next.js</a> and <a target="_blank" href="https://tailwindcss.com/">Tailwindcss</a>
+- 💡 Proficient in Python, JavaScript and frameworks <a target="_blank" href="https://www.djangoproject.com/">Django</a> <a target="_blank" href="https://react.dev/"> React.js </a> <a target="_blank" href="https://nodejs.org/en">Node.js</a> <a target="_blank" href="https://nextjs.org/">Next.js</a> and <a target="_blank" href="https://tailwindcss.com/">Tailwindcss</a>
 - 🤗 Exceptional interpersonal and leadership abilities, characterized by a friendly and sociable nature.
 - 🏆 President of the Mauritanian Student Union @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a> for 2 years.
 - 🌏 Completed a year-long <a target="_blank" href="https://erasmus-plus.ec.europa.eu/">Erasmus+ student exchange program</a> at @<a target="_blank" href="https://www.ipvc.pt/en/">Polytechnic Institute of Viana do Castelo</a> - Portugal.
