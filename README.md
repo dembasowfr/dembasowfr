@@ -16,7 +16,7 @@
 - 💼 Actively seeking challenging job opportunities in the <a target="_blank" href="https://dembashow.tech/">web development</a> and <a target="_blank" href="https://dembashow.tech/">AI</a> fields.
 - 🧠 Expertise in <a target="_blank" href="https://dembashow.tech/">web development</a> and passionate about <a target="_blank" href="https://dembashow.tech/">Artificial Intelligence</a>
 - ✍️ I find solace in expressing thoughts, I wrote my first poem at age 8.
-- 📚 Just started working on my Personal Wiki, <a target="_blank" href="https://dembasow.wikiwonder.com">Wiki Wonder</a>, where I am going to share a lot of exciting content.
+- 📚 Just started working on my Personal Wiki, <a target="_blank" href="https://wikiwonder.netlify.app/">Wiki Wonder</a>, where I am going to share a lot of exciting content.
 - 🎯 As a side project, I am working on <a target="_blank" href="https://dembashow.tech/">DesTech</a>, a company aiming to transform ideas into digital world.
 - 💻 Part time full-stack developer and content writer @<a href="https://carcheckup.co.uk/">CarCheckUp UK</a>
 - 🤖 Hybrid and part time machine learning and AI engineer @<a href="https://rework3.com/">Work3 Teknoloji</a>
