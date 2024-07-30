@@ -14,12 +14,12 @@
 
 - 👨‍💻 Recent Computer Engineering Graduate @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a>
 - 💼 Actively seeking challenging job opportunities in the <a target="_blank" href="https://dembashow.tech/">web development</a> and <a target="_blank" href="https://dembashow.tech/">AI</a> fields.
-- 🧠 Expertise in <a target="_blank" href="https://dembashow.tech/">web development</a> and passionate about <a target="_blank" href="https://dembashow.tech/">Artificial Intelligence</a>
+- 🧠 Expertise in <a target="_blank" href="https://dembashow.tech/">Software Engineering</a> and passionate about <a target="_blank" href="https://dembashow.tech/">Artificial Intelligence</a>
 - ✍️ I find solace in expressing thoughts, I wrote my first poem at age 8.
 - 📚 Just started working on my Personal Wiki, <a target="_blank" href="https://wikiwonder.netlify.app/">Wiki Wonder</a>, where I am going to share a lot of exciting content.
 - 🎯 As a side project, I am working on <a target="_blank" href="https://dembashow.tech/">DesTech</a>, a company aiming to transform ideas into digital world.
-- 💻 Part time full-stack developer and content writer @<a href="https://carcheckup.co.uk/">CarCheckUp UK</a>
-- 🤖 Hybrid and part time machine learning and AI engineer @<a href="https://rework3.com/">Work3 Teknoloji</a>
+- 💻 Part time full-stack Software Engineer @<a href="https://carcheckup.co.uk/">CarCheckUp UK</a>
+- 🤖 Hybrid and part time Artificial Intelligence Engineer @<a href="https://rework3.com/">Work3 Teknoloji</a>
 - 💡 Proficient in <a target="_blank" href="https://python.org/">Python</a>, <a target="_blank" href="https://www.javascript.com/">JavaScript</a> and frameworks <a target="_blank" href="https://www.djangoproject.com/">Django</a>, <a target="_blank" href="https://react.dev/"> React.js </a>, <a target="_blank" href="https://nodejs.org/en">Node.js</a>, <a target="_blank" href="https://nextjs.org/">Next.js</a> and <a target="_blank" href="https://tailwindcss.com/">Tailwindcss</a>
 - 🤗 Exceptional interpersonal and leadership abilities, characterized by a friendly and sociable nature.
 - 🏆 President of the Mauritanian Student Union @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a> for 2 years.
