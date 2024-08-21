@@ -1,3 +1,4 @@
+![banner-linkedin-2](https://github.com/user-attachments/assets/ecee7e9c-c903-447d-9e72-3c8e2f836298)
 <p>
   <img  width ="150" align="right" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="dembasow98">
 </p> 
