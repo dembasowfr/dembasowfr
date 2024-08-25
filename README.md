@@ -27,9 +27,9 @@
 <p align="center">
   <a target="_blank" href="https://dembashow.tech/"><img src='https://img.shields.io/badge/MY%20PORTFOLIO-8A2BE2?style=for-the-badge&logo=website&logoColor=green' alt='website'></a>
   <a target="_blank" href="mailto:dastech1998@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'></a>
-  <a target="_blank" href="https://www.linkedin.com/in/dembasowfr/"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+  <a target="_blank" href="https://www.linkedin.com/in/demba-sow-3a532a324/"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
   <a target="_blank" href="https://twitter.com/dembasowfr/"><img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter'></a>
-  <a target="_blank" href="https://www.instagram.com/dembasowofficial/"><img src='https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram'></a>
+  <a target="_blank" href="https://www.instagram.com/greatnessinconstruction/"><img src='https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram'></a>
 </p>
 
 
