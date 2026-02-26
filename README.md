@@ -1,5 +1,6 @@
-<!-- <h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1> -->
-- 👨‍💻 Masters in Data Science & Teaching Assistant @<a target="_blank" href="https://www.ozyegin.edu.tr/en"> Özyeğin University</a>
+<h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1>
+
+<h2 align="center"> 👨‍💻 Masters in Data Science & Teaching Assistant @<a target="_blank" href="https://www.ozyegin.edu.tr/en"> Özyeğin University</a></h2>
 - 👨🏽‍🎓Computer Engineering Graduate @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a>
 - 💼 Actively seeking challenging job opportunities in the <a target="_blank" href="https://dembashow.tech/">AI</a> and <a target="_blank" href="https://dembashow.tech/"> Generative AI and Machine Learning Engineering</a> fields.
 - 🧠 High Interest in <a target="_blank" href="https://dembashow.tech/">Software Development</a>
