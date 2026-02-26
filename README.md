@@ -5,6 +5,7 @@ MSc in Data Science & Teaching Assistant @
 <a href="https://www.ozyegin.edu.tr/en">Özyeğin University</a>
 </h3>
 
+---
 
 # 👋 ABOUT ME
 
@@ -140,17 +141,6 @@ Monitoring model drift
 </td>
 </tr>
 </table>
-
-| Category | Skills |
-|----------|--------|
-| 🔹 Large Language Models | GPT-style architectures <br> Transformer architecture <br> Fine-tuning (LoRA / PEFT) <br> Instruction tuning <br> Prompt engineering <br> System prompt design <br> Chain-of-Thought prompting <br> Function calling <br> Structured output generation |
-| 🔹 Retrieval-Augmented Generation (RAG) | Vector embeddings <br> Semantic search <br> Hybrid search (BM25 + dense retrieval) <br> Chunking strategies <br> Context window optimization <br> Knowledge-grounded generation |
-| 🔹 Vector Databases | ChromaDB <br> Pinecone <br> Weaviate <br> FAISS |
-| 🔹 LLM Frameworks & Tooling | LangChain <br> LlamaIndex <br> Hugging Face Transformers <br> OpenAI API <br> Tokenization pipelines <br> Model evaluation (BLEU, ROUGE, Perplexity) |
-| 🔹 Model Deployment & Optimization | Model serving (FastAPI / Docker) <br> Quantization <br> ONNX export <br> GPU acceleration <br> Batch inference pipelines <br> Streaming inference |
-| 🔹 Multimodal AI | Vision-language models <br> Image captioning <br> OCR pipelines <br> Speech-to-text systems |
-| 🔹 AI Safety & Alignment | Hallucination mitigation <br> Guardrails <br> Prompt injection prevention <br> Output validation |
-| 🔹 MLOps for Generative AI | MLflow <br> CI/CD for ML <br> Experiment tracking <br> Model versioning <br> Monitoring model drift |
 
 ---
 
