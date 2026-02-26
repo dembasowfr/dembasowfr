@@ -45,6 +45,101 @@ MSc in Data Science & Teaching Assistant @
 
 # 🥈 CORE TECHNICAL SKILLS
 ## 🧠 Generative AI & LLM Engineering
+<table>
+<tr>
+<th>🔹 Large Language Models</th>
+<th>🔹 Retrieval-Augmented Generation (RAG)</th>
+<th>🔹 Vector Databases</th>
+<th>🔹 LLM Frameworks & Tooling</th>
+</tr>
+<tr>
+<td>
+<sub>
+GPT-style architectures <br>
+Transformer architecture <br>
+Fine-tuning (LoRA / PEFT) <br>
+Instruction tuning <br>
+Prompt engineering <br>
+System prompt design <br>
+Chain-of-Thought prompting <br>
+Function calling <br>
+Structured output generation
+</sub>
+</td>
+<td>
+<sub>
+Vector embeddings <br>
+Semantic search <br>
+Hybrid search (BM25 + dense retrieval) <br>
+Chunking strategies <br>
+Context window optimization <br>
+Knowledge-grounded generation
+</sub>
+</td>
+<td>
+<sub>
+ChromaDB <br>
+Pinecone <br>
+Weaviate <br>
+FAISS
+</sub>
+</td>
+<td>
+<sub>
+LangChain <br>
+LlamaIndex <br>
+Hugging Face Transformers <br>
+OpenAI API <br>
+Tokenization pipelines <br>
+Model evaluation (BLEU, ROUGE, Perplexity)
+</sub>
+</td>
+</tr>
+
+<tr>
+<th>🔹 Model Deployment & Optimization</th>
+<th>🔹 Multimodal AI</th>
+<th>🔹 AI Safety & Alignment</th>
+<th>🔹 MLOps for Generative AI</th>
+</tr>
+<tr>
+<td>
+<sub>
+Model serving (FastAPI / Docker) <br>
+Quantization <br>
+ONNX export <br>
+GPU acceleration <br>
+Batch inference pipelines <br>
+Streaming inference
+</sub>
+</td>
+<td>
+<sub>
+Vision-language models <br>
+Image captioning <br>
+OCR pipelines <br>
+Speech-to-text systems
+</sub>
+</td>
+<td>
+<sub>
+Hallucination mitigation <br>
+Guardrails <br>
+Prompt injection prevention <br>
+Output validation
+</sub>
+</td>
+<td>
+<sub>
+MLflow <br>
+CI/CD for ML <br>
+Experiment tracking <br>
+Model versioning <br>
+Monitoring model drift
+</sub>
+</td>
+</tr>
+</table>
 
 | Category | Skills |
 |----------|--------|
@@ -56,66 +151,6 @@ MSc in Data Science & Teaching Assistant @
 | 🔹 Multimodal AI | Vision-language models <br> Image captioning <br> OCR pipelines <br> Speech-to-text systems |
 | 🔹 AI Safety & Alignment | Hallucination mitigation <br> Guardrails <br> Prompt injection prevention <br> Output validation |
 | 🔹 MLOps for Generative AI | MLflow <br> CI/CD for ML <br> Experiment tracking <br> Model versioning <br> Monitoring model drift |
-
-### 🔹 Large Language Models
-- GPT-style architectures  
-- Transformer architecture  
-- Fine-tuning (LoRA / PEFT)  
-- Instruction tuning  
-- Prompt engineering  
-- System prompt design  
-- Chain-of-Thought prompting  
-- Function calling  
-- Structured output generation  
-
-### 🔹 Retrieval-Augmented Generation (RAG)
-- Vector embeddings  
-- Semantic search  
-- Hybrid search (BM25 + dense retrieval)  
-- Chunking strategies  
-- Context window optimization  
-- Knowledge-grounded generation  
-
-### 🔹 Vector Databases
-- ChromaDB  
-- Pinecone  
-- Weaviate  
-- FAISS  
-
-### 🔹 LLM Frameworks & Tooling
-- LangChain  
-- LlamaIndex  
-- Hugging Face Transformers  
-- OpenAI API  
-- Tokenization pipelines  
-- Model evaluation (BLEU, ROUGE, Perplexity)  
-
-###🔹 Model Deployment & Optimization
-- Model serving (FastAPI / Docker)  
-- Quantization  
-- ONNX export  
-- GPU acceleration  
-- Batch inference pipelines  
-- Streaming inference  
-
-###🔹 Multimodal AI
-- Vision-language models  
-- Image captioning  
-- OCR pipelines  
-- Speech-to-text systems  
-
-### 🔹 AI Safety & Alignment
-- Hallucination mitigation  
-- Guardrails  
-- Prompt injection prevention  
-- Output validation  
-
-### 🔹 MLOps for Generative AI
-- MLflow  
-- CI/CD for ML  
-- Experiment tracking  
-- Model versioning  
-- Monitoring model drift
 
 ---
 
