@@ -3,13 +3,15 @@
 <h2 align="center"> 👨‍💻 Masters in Data Science & Teaching Assistant @ <a target="_blank" href="https://www.ozyegin.edu.tr/en"> Özyeğin University</a></h2>
 
 - 👨🏽‍🎓Computer Engineering Graduate @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a>
-- 💼 Actively seeking challenging job opportunities in the <a target="_blank" href="https://dembashow.tech/">AI</a> and <a target="_blank" href="https://dembashow.tech/"> Generative AI and Machine Learning Engineering</a> fields.
+- 💼 Actively seeking challenging job opportunities in the <a target="_blank" href="https://dembashow.tech/">Generative AI </a> and <a target="_blank" href="https://dembashow.tech/">Machine Learning Engineering</a>.
 - 🧠 High Interest in <a target="_blank" href="https://dembashow.tech/">Software Development</a>
 - ✍️ I find solace in expressing thoughts, I wrote my first poem at age 8.
-- 📔 I share my deep thougths <a target="_blank" href="https://dembashowworld.substack.com/">HERE</a> 
+- 📔 I share my deep thougths <a target="_blank" href="https://dembashowworld.substack.com/">HERE</a>
+- 🎯 In my free time I build <a target="_blank" href="https://learningmastery.app/">Learning Mastery Platform </a> which is an IELTS and English Learning platform with AI.📌 
 - 💡 Proficient in <a target="_blank" href="https://python.org/">Python</a> and <a target="_blank" href="https://cplusplus.com/">C++</a>, good in <a target="_blank" href="https://www.javascript.com/">JavaScript</a> and frameworks <a target="_blank" href="https://www.djangoproject.com/">Django</a>, <a target="_blank" href="https://react.dev/"> React.js </a>, <a target="_blank" href="https://nodejs.org/en">Node.js</a>, <a target="_blank" href="https://nextjs.org/">Next.js</a> and <a target="_blank" href="https://tailwindcss.com/">Tailwindcss</a>
 - 🤗 Exceptional interpersonal and leadership abilities, characterized by a friendly and sociable nature.
-- 🏆 President of the Mauritanian Student Union @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a> for 2 years.
+- 🏆 Served As President of the Mauritanian Student Union @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a> for 2 years.
+- Served As President of the <a target="_blank" href="[https://sakarya.edu.tr](https://turkiyemaarif.org/)">Turkiye Maarif Foundation</a> (Internation Turkish Govenment Schools around the world) Student Union in Türkiye for 1 year.
 - 🌏 Completed a year-long <a target="_blank" href="https://erasmus-plus.ec.europa.eu/">Erasmus+ student exchange program</a> at @<a target="_blank" href="https://www.ipvc.pt/en/">Polytechnic Institute of Viana do Castelo</a> - Portugal.
 - 🏅 Fully Founded Bachelor's degree by <a target="_blank" href="https://turkiyemaarif.org/">Turkiye Government</a>
 <p>&nbsp;</p>
