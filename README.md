@@ -1,6 +1,7 @@
 <h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1>
 
-<h2 align="center"> 👨‍💻 Masters in Data Science & Teaching Assistant @<a target="_blank" href="https://www.ozyegin.edu.tr/en"> Özyeğin University</a></h2>
+<h2 align="center"> 👨‍💻 Masters in Data Science & Teaching Assistant @ <a target="_blank" href="https://www.ozyegin.edu.tr/en"> Özyeğin University</a></h2>
+
 - 👨🏽‍🎓Computer Engineering Graduate @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a>
 - 💼 Actively seeking challenging job opportunities in the <a target="_blank" href="https://dembashow.tech/">AI</a> and <a target="_blank" href="https://dembashow.tech/"> Generative AI and Machine Learning Engineering</a> fields.
 - 🧠 High Interest in <a target="_blank" href="https://dembashow.tech/">Software Development</a>
@@ -11,7 +12,6 @@
 - 🏆 President of the Mauritanian Student Union @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a> for 2 years.
 - 🌏 Completed a year-long <a target="_blank" href="https://erasmus-plus.ec.europa.eu/">Erasmus+ student exchange program</a> at @<a target="_blank" href="https://www.ipvc.pt/en/">Polytechnic Institute of Viana do Castelo</a> - Portugal.
 - 🏅 Fully Founded Bachelor's degree by <a target="_blank" href="https://turkiyemaarif.org/">Turkiye Government</a>
-- 😜 Joe Biden's love for ice cream rivals mine, and that's no small scoop!🍦😉.
 <p>&nbsp;</p>
 
 <p align="center">
