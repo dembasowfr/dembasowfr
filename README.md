@@ -1,16 +1,8 @@
-### 🥇 PORTFOLIO 👨‍💻
-![banner-linkedin-2](https://github.com/user-attachments/assets/ecee7e9c-c903-447d-9e72-3c8e2f836298)
-<div>
-  <a href="https://dembashow.works/">
-    <img  width ="150" align="right" src="https://komarev.com/ghpvc/?username=dembasow98&label=Profile%20views&color=0e75b6&style=flat" alt="Demba Sow | Machine Learning Engineer">
-  </a>
-</div>
-
 <!-- <h1 align="center"> 🥇 PORTFOLIO 👨‍💻</h1> -->
 - 👨‍💻 Masters in Data Science & Teaching Assistant @<a target="_blank" href="https://www.ozyegin.edu.tr/en"> Özyeğin University</a>
 - 👨🏽‍🎓Computer Engineering Graduate @<a target="_blank" href="https://sakarya.edu.tr">University of Sakarya</a>
-- 💼 Actively seeking challenging job opportunities in the <a target="_blank" href="https://dembashow.tech/">AI</a> and <a target="_blank" href="https://dembashow.tech/">Software Engineering</a> fields.
-- 🧠 Expertise in <a target="_blank" href="https://dembashow.tech/">Artificial Intelligence</a>  and passionate about <a target="_blank" href="https://dembashow.tech/">Software Engineering</a>
+- 💼 Actively seeking challenging job opportunities in the <a target="_blank" href="https://dembashow.tech/">AI</a> and <a target="_blank" href="https://dembashow.tech/"> Generative AI and Machine Learning Engineering</a> fields.
+- 🧠 High Interest in <a target="_blank" href="https://dembashow.tech/">Software Development</a>
 - ✍️ I find solace in expressing thoughts, I wrote my first poem at age 8.
 - 📔 I share my deep thougths <a target="_blank" href="https://dembashowworld.substack.com/">HERE</a> 
 - 💡 Proficient in <a target="_blank" href="https://python.org/">Python</a> and <a target="_blank" href="https://cplusplus.com/">C++</a>, good in <a target="_blank" href="https://www.javascript.com/">JavaScript</a> and frameworks <a target="_blank" href="https://www.djangoproject.com/">Django</a>, <a target="_blank" href="https://react.dev/"> React.js </a>, <a target="_blank" href="https://nodejs.org/en">Node.js</a>, <a target="_blank" href="https://nextjs.org/">Next.js</a> and <a target="_blank" href="https://tailwindcss.com/">Tailwindcss</a>
