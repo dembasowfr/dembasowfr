@@ -5,9 +5,8 @@ MSc in Data Science & Teaching Assistant @
 <a href="https://www.ozyegin.edu.tr/en">Özyeğin University</a>
 </h3>
 
----
 
-## 👋 About Me
+# 👋 ABOUT ME
 
 - 👨🏽‍🎓 Computer Engineering Graduate @ 
   <a href="https://sakarya.edu.tr">University of Sakarya</a>
@@ -27,71 +26,7 @@ MSc in Data Science & Teaching Assistant @
   <a href="https://dembashowworld.substack.com/">Substack</a>
 
 ---
-
-# 🧠 Generative AI & LLM Engineering
-
-## 🔹 Large Language Models
-- GPT-style architectures  
-- Transformer architecture  
-- Fine-tuning (LoRA / PEFT)  
-- Instruction tuning  
-- Prompt engineering  
-- System prompt design  
-- Chain-of-Thought prompting  
-- Function calling  
-- Structured output generation  
-
-## 🔹 Retrieval-Augmented Generation (RAG)
-- Vector embeddings  
-- Semantic search  
-- Hybrid search (BM25 + dense retrieval)  
-- Chunking strategies  
-- Context window optimization  
-- Knowledge-grounded generation  
-
-## 🔹 Vector Databases
-- ChromaDB  
-- Pinecone  
-- Weaviate  
-- FAISS  
-
-## 🔹 LLM Frameworks & Tooling
-- LangChain  
-- LlamaIndex  
-- Hugging Face Transformers  
-- OpenAI API  
-- Tokenization pipelines  
-- Model evaluation (BLEU, ROUGE, Perplexity)  
-
-## 🔹 Model Deployment & Optimization
-- Model serving (FastAPI / Docker)  
-- Quantization  
-- ONNX export  
-- GPU acceleration  
-- Batch inference pipelines  
-- Streaming inference  
-
-## 🔹 Multimodal AI
-- Vision-language models  
-- Image captioning  
-- OCR pipelines  
-- Speech-to-text systems  
-
-## 🔹 AI Safety & Alignment
-- Hallucination mitigation  
-- Guardrails  
-- Prompt injection prevention  
-- Output validation  
-
-## 🔹 MLOps for Generative AI
-- MLflow  
-- CI/CD for ML  
-- Experiment tracking  
-- Model versioning  
-- Monitoring model drift
-
----
-# 🏆 Leadership & Experience
+# 🏆 LEADERSHIP & EXPERIENCE
 
 - 🏅 President — Mauritanian Student Union 
   @ <a href="https://sakarya.edu.tr">University of Sakarya</a> (2 years)
@@ -106,13 +41,74 @@ MSc in Data Science & Teaching Assistant @
 
 - 🎓 Bachelor’s Degree fully funded by  
   <a href="https://turkiyemaarif.org/">Türkiye Government</a>
-
----
 ---
 
-# 🥈 Core Technical Skills
+# 🥈 CORE TECHNICAL SKILLS
+## 🧠 Generative AI & LLM Engineering
 
-## 🧠 Artificial Intelligence
+### 🔹 Large Language Models
+- GPT-style architectures  
+- Transformer architecture  
+- Fine-tuning (LoRA / PEFT)  
+- Instruction tuning  
+- Prompt engineering  
+- System prompt design  
+- Chain-of-Thought prompting  
+- Function calling  
+- Structured output generation  
+
+### 🔹 Retrieval-Augmented Generation (RAG)
+- Vector embeddings  
+- Semantic search  
+- Hybrid search (BM25 + dense retrieval)  
+- Chunking strategies  
+- Context window optimization  
+- Knowledge-grounded generation  
+
+### 🔹 Vector Databases
+- ChromaDB  
+- Pinecone  
+- Weaviate  
+- FAISS  
+
+### 🔹 LLM Frameworks & Tooling
+- LangChain  
+- LlamaIndex  
+- Hugging Face Transformers  
+- OpenAI API  
+- Tokenization pipelines  
+- Model evaluation (BLEU, ROUGE, Perplexity)  
+
+###🔹 Model Deployment & Optimization
+- Model serving (FastAPI / Docker)  
+- Quantization  
+- ONNX export  
+- GPU acceleration  
+- Batch inference pipelines  
+- Streaming inference  
+
+###🔹 Multimodal AI
+- Vision-language models  
+- Image captioning  
+- OCR pipelines  
+- Speech-to-text systems  
+
+### 🔹 AI Safety & Alignment
+- Hallucination mitigation  
+- Guardrails  
+- Prompt injection prevention  
+- Output validation  
+
+### 🔹 MLOps for Generative AI
+- MLflow  
+- CI/CD for ML  
+- Experiment tracking  
+- Model versioning  
+- Monitoring model drift
+
+---
+
+## 🧠 TRADITIONAL MACHINE LEARNING SKILLS
 <p>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -122,7 +118,9 @@ MSc in Data Science & Teaching Assistant @
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black"/>
 </p>
 
-## 🎨 Frontend
+---
+## 👨‍💻 SOFTWARE DEVELOPMENT
+### 🎨 FRONTEND
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -132,7 +130,7 @@ MSc in Data Science & Teaching Assistant @
   <img src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-## ⚙️ Backend
+### ⚙️ BACKEND
 <p>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -142,14 +140,14 @@ MSc in Data Science & Teaching Assistant @
   <img src="https://img.shields.io/badge/prisma-%230E1E24.svg?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-## 🗄️ Database
+## 🗄️ DATABASE
 <p>
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </p>
 
-## 🧩 Others
+## 🧩 OTHER SKILLS
 <p>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -162,8 +160,8 @@ MSc in Data Science & Teaching Assistant @
 ---
 
 
-# 🌐 Connect With Me
-
+# 🌐 CONNECT WITH ME
+Feel Whalecomed to reach me out.
 <p align="center">
   <a href="https://dembashow.works/">
     <img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
